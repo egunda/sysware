@@ -1,7 +1,8 @@
 clear
 echo "----------------------------------------------"
 echo "Script by vivek"
-echo "This is to add a new website"
+echo "This is to add a new wordpress website"
+echo "You will still need to config database later"
 echo "----------------------------------------------"
 echo "Please enter your website [without www] :"
 read website
